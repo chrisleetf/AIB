@@ -40,7 +40,7 @@
           "type": "PlatformImage",
           "publisher": "MicrosoftWindowsDesktop",
           "offer": "office-365",
-          "sku": "21h1-evd-o365pp-g2",
+          "sku": "21h1-evd-o365pp",
           "version": "latest"
         },
         "customize": [
