@@ -37,5 +37,5 @@ catch {
 #endregion
 
 #region Notepad++
-Powershell.exe -File "C:\temp\Software\InstallWindowUpdateScript.ps1"
+#Powershell.exe -File "C:\temp\Software\InstallWindowUpdateScript.ps1"
 #endregion
