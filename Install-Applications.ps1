@@ -35,7 +35,3 @@ catch {
     write-log "Error installing Adobe Reader: $ErrorMessage"
 }
 #endregion
-
-#region Notepad++
-Powershell.exe -File "C:\temp\Software\InstallWindowUpdateScript.ps1"
-#endregion
