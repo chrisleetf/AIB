@@ -81,7 +81,7 @@
         "distribute": [
           {
             "type": "SharedImage",
-            "galleryImageId": "/subscriptions/9c226307-2652-4124-a9b5-f59e312a9341/resourceGroups/AZ-VDC000001-EUW1-RG-GERMANY-WVD/providers/Microsoft.Compute/galleries/euw1wvdSharedImageGallery/images/20h2_office365_DML_automatedAIB",
+            "galleryImageId": "/subscriptions/9c226307-2652-4124-a9b5-f59e312a9341/resourceGroups/AZ-VDC000001-EUW1-RG-GERMANY-WVD/providers/Microsoft.Compute/galleries/euw1wvdSharedImageGallery/images/golden_master_image_DML",
             "runOutputName": "DML",
             "artifactTags": {
               "source": "wvd10",
